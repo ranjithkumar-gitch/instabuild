@@ -1,8 +1,8 @@
+import 'package:Instabuild/providers/cart_provider.dart';
+import 'package:Instabuild/screens/cart_screen.dart';
+import 'package:Instabuild/widgets/customtext.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:instabuild/providers/cart_provider.dart';
-import 'package:instabuild/screens/cart_screen.dart';
-import 'package:instabuild/widgets/customtext.dart';
 import 'package:provider/provider.dart';
 
 class CustomAppbar extends StatelessWidget implements PreferredSizeWidget {

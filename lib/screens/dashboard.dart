@@ -1,11 +1,9 @@
+import 'package:Instabuild/widgets/customappbar.dart';
 import 'package:flutter/material.dart';
-import 'package:instabuild/widgets/customappbar.dart';
-import 'package:provider/provider.dart';
 import '../providers/cart_provider.dart';
 import '../models/category.dart';
 import '../widgets/product_image.dart';
 import 'product_list_screen.dart';
-import 'cart_screen.dart';
 
 class Dashboard extends StatelessWidget {
   const Dashboard({super.key});
