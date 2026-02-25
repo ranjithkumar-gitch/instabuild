@@ -1,4 +1,4 @@
-# instabuild
+# Instabuild
 
 A new Flutter project.
 
