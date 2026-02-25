@@ -1,4 +1,4 @@
-package com.example.instabuild
+package com.visualizeandbuild.instabuild
 
 import io.flutter.embedding.android.FlutterActivity
 
